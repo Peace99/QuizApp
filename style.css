@@ -19,7 +19,7 @@ h4{
 }
 
 h1 {
-    font-size: 5.4rem;
+    font-size: 3.4rem;
     color: #fc766aff;
     margin-bottom: 5rem;
 }
@@ -30,14 +30,14 @@ h1 > span {
 }
 
 h2 {
-    font-size: 4.2rem;
+    font-size: 3.0rem;
     margin-bottom: 4rem;
     font-weight: 500;
     color: #fc766aff;
 }
 
 h3 {
-    font-size: 3.5rem;
+    font-size: 2.5rem;
     font-weight: 500;
 }
 
