@@ -1,0 +1,29 @@
+[
+{
+    "question": "Inside which HTML element do we put the JavaScript?",
+    "option1": "<script>",
+    "option2": "<javascript>",
+    "option3": "<js>",
+    "option4": "<scripting>",
+    "answer": 1
+  },
+
+  {
+    "question": "What is the full meaning of HTML?",
+    "option1": "Hyper top markup lamguage",
+    "option2": "HyperText Markup Language",
+    "option3": "Hyping text markdown language",
+    "option4": "Hypermegtation table macro language",
+    "answer": 2
+  },
+
+  {
+    "question": "FTP stands for?",
+    "option1": "File transfer protocol",
+    "option2": "Forward transfer parse",
+    "option3": "Fake template protocol",
+    "option4": "Figma transfer protocol",
+    "answer": 1
+  }
+
+]
